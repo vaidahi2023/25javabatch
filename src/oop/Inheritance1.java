@@ -35,3 +35,4 @@ public class Inheritance1 {
 //result-- marks[],per
 
 
+
